@@ -4,7 +4,7 @@
   <img v-bind:src="img" class="img-fluid">
 
 </template>
-
+<!-- test -->
 <script setup>
   
   // Importamos axios 
